@@ -1,6 +1,6 @@
 # launch a container named Abathur
 
-docker run --name Abathur -v $HOME/root:/root -p 3000:3000 --interactive --tty python:2.7.13-slim python
+docker run --name Abathur -v $HOME/root:/root -p 3000:3000 python:2.7.13-slim python
 
 # import os
 

@@ -72,11 +72,8 @@ docker run [--interactive] [--tty] [container name]
 
 ## Resources
 
-```
 * **Docker official documentation** (https://docs.docker.com/)
 * **aheil** (https://github.com/andreasheil)
-
-```
 
 ## Notes
 

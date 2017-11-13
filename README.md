@@ -73,7 +73,9 @@ docker run [--interactive] [--tty] [container name]
 ## Resources
 
 ```
-Unix Network Programming Vol 1, 3rd version
+* **Docker official documentation** (https://docs.docker.com/)
+* **aheil** (https://github.com/andreasheil)
+
 ```
 
 ## Notes
